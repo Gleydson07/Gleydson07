@@ -6,11 +6,9 @@
   | ------------ | ---------- |
   |     PHP      | JAVASCRIPT |
   |     JAVA     |  REACTJS   |
-  |      SQL*    |   NODEJS   |
+  |      SQL     |   NODEJS   |
   |     HTML     |    NETJS   |
-  |     CSS**    |  TYPEORM   |
-  * Postgres e MySQL
-  ** Puro e Styled Components <br>
+  |     CSS      |  TYPEORM   | <br>
   
   **Contato** <br>
   [LinkedIn](https://www.linkedin.com/in/gleydson07/) <br>
