@@ -1,6 +1,8 @@
-<h1>Gleydson Albuquerque</h1>
+<h1 align="center">Gleydson Albuquerque</h1>
 
-<p>&nbsp; &nbsp;&nbsp;&nbsp; Formado em Análise de Sistemas pela Faculdade Centro Universitário Cesmac, possuo conhecimento em Java, PHP, Javascript, HTML e CSS, estou evoluindo meu conhecimento na biblioteca REACT ao tempo em que aprimoro minhas competências profissionais e pessoais. Sempre busco cooperar no trabalho em equipe, assumir com compromisso e responsabilidade os trabalhos a mim atribuidos.</p>
+<p align="justify">&nbsp; &nbsp;&nbsp;&nbsp; Formado em Análise de Sistemas pela Faculdade Centro Universitário Cesmac, possuo conhecimento em Java, PHP, Javascript, HTML e CSS, estou evoluindo meu conhecimento na biblioteca REACT ao tempo em que aprimoro minhas competências profissionais e pessoais. Sempre busco cooperar no trabalho em equipe, assumir com compromisso e responsabilidade os trabalhos a mim atribuidos.</p>
+
+<img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
 
   | <strong>Conhecimento</strong> | <strong>Aprendendo</strong> |
   | ------------ | ---------- |
@@ -8,7 +10,7 @@
   |     JAVA     |  REACTJS   |
   |      SQL     |   NODEJS   |
   |     HTML     |    NETJS   |
-  |     CSS      |  TYPEORM   | <br>
+  |     CSS      |  TYPEORM   |
   
   **Contato** <br>
   [LinkedIn](https://www.linkedin.com/in/gleydson07/) <br>
