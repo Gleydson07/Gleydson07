@@ -15,7 +15,7 @@ e mais eficientes soluções para a sociedade.</p>
 <br> 
 <h3>Contato</h3>
 
- [ <img src="https://lh3.googleusercontent.com/EViPU9FCAUhSgZR7hnFJRlSL4gkhL_ye0n4VldsEZA_yUlslnHk-3BgQKXnArQzb14OO" width="35%"/>](https://app.rocketseat.com.br/me/gleydson-albuquerque-07782) :link:  &nbsp; &nbsp;&nbsp;  [ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" width="25%"/>](https://www.linkedin.com/in/gleydson07/) :link:  &nbsp; &nbsp;&nbsp; [ <img src="https://img1.gratispng.com/20180413/fde/kisspng-g-suite-gmail-computer-icons-google-email-e-mail-5ad074ba3e72d7.9148494615236108102558.jpg" width="10%"/>](gassantos.dev@gmail.com) :link:
+ [ <img src="https://lh3.googleusercontent.com/EViPU9FCAUhSgZR7hnFJRlSL4gkhL_ye0n4VldsEZA_yUlslnHk-3BgQKXnArQzb14OO" width="15%"/>](https://app.rocketseat.com.br/me/gleydson-albuquerque-07782) :link:  &nbsp; &nbsp;&nbsp;  [ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" width="10%"/>](https://www.linkedin.com/in/gleydson07/) :link:  &nbsp; &nbsp;&nbsp; [ <img src="https://cdn.vox-cdn.com/thumbor/8fWz6qpiMYMsZhY4vrc9Vhl5yL8=/0x110:1320x770/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/21939811/newgmaillogo.jpg" width="10%"/>](gassantos.dev@gmail.com) :link:
   
  :computer:	&nbsp; &nbsp;&nbsp;&nbsp; :eyeglasses: &nbsp; &nbsp;&nbsp;&nbsp; :grinning: &nbsp; &nbsp;&nbsp;&nbsp;	:muscle:
 
