@@ -1,3 +1,4 @@
+
 <h1 align="center">Gleydson Albuquerque</h1>
 
 <p align="justify">&nbsp; &nbsp;&nbsp;&nbsp; Formado em Sistemas de Informações pela Faculdade Centro Universitário Cesmac, tenho como caracterisca a busca constante por aprendizado a fim de entregar melhores 
@@ -27,7 +28,7 @@ e mais eficientes soluções para a sociedade.</p>
 :grinning: &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;  &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;  &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;	 &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;  &nbsp; &nbsp;
  :muscle:  
 
-<blockquot>&nbsp; &nbsp;&nbsp;&nbsp; Ao passo que aprimoro minhas habilidades e amplio meu conhecimento, percebo que o aprendizado é um processo prazeroso e infinito de constante evolução.
+<blockquot >&nbsp; &nbsp;&nbsp;&nbsp; Ao passo que aprimoro minhas habilidades e amplio meu conhecimento, percebo que o aprendizado é um processo prazeroso e infinito de constante evolução.
   <cite style='text-align: right;'>Eu mesmo! :sunglasses: </cite>
 </blockquot>
 
