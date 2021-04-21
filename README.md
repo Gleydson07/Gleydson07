@@ -47,6 +47,7 @@
    <a href="https://api.whatsapp.com/send?phone=558281114246&text=Olá!! 😀" target="blank"><img src="./assets/whatsapp.svg" title="whatsapp" width="40px"/></a>
    <a href="https://app.rocketseat.com.br/me/gleydson-albuquerque-07782" target="blank"><img src="./assets/rocketseat.svg" title="rocketseat" width="40px"/></a>
 </div>
+</br></br></br>
 <div align="center">
    <p>:rocket: Ao passo que aprimoro minhas habilidades e amplio meu conhecimento, percebo que o aprendizado é um processo prazeroso e infinito de constante evolução. </p>
 </div>
