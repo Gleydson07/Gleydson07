@@ -10,6 +10,8 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleydson07&&langs_count=8&layout=compact" alt="Gleydson07" height="178" align="center"/>
 </div>
 
+
+#### Tecnologias em 
 <!--
 ### Nível de conhecimento :sunglasses:
 <img src="https://img.shields.io/static/v1?label=php&message=8.50&color=blue&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?label=java&message=8.50&color=blue&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?label=sql&message=8.50&color=blue&style=for-the-badge"/> 
