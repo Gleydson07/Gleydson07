@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Gleydson07&count_private=true&show_icons=true" alt="Gleydson07" width="450" />        
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleydson07&&langs_count=8&layout=compact" alt="Gleydson07" height="178" />
 </div>
-<div >
+<div align="center">
    <h4>Skills</h4>
    <div>
       <h3>Tenho experiência</h3>
