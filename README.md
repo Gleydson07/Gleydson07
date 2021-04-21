@@ -27,11 +27,11 @@
    </div>
    <div>
       <h3>Tenho interesse</h3>
-      <img src="./assets/nodejs.svg" alt="NodeJS" width="40px"> &NonBreakingSpace;
+      <img src="./assets/nodejs.svg" alt="NodeJS" width="40px"> &NonBreakingSpace; 
       <img src="./assets/docker.svg" alt="docker" width="40px">
       <img src="./assets/vuejs.svg" alt="vue" width="40px">
       <img src="./assets/angularjs.svg" alt="angular" width="40px">
-      <img src="./assets/mongodb.svg" alt="mongodb" height="25px"> 
+      <img src="./assets/mongodb.svg" alt="mongodb" height="35px"> 
    </div>
    <div>
       <h3>Ferramentas </h3>
@@ -39,6 +39,12 @@
       <img src="./assets/vscode.svg" alt="vscode" width="40px"> &NonBreakingSpace;
       <img src="./assets/figma.svg" alt="figma" height="35px">
    </div>
+</div>
+<div>
+   <h3>:mail: Network</h3>
+   <img src="./assets/linkedin.svg" alt="linkedin" width="40px">(https://www.linkedin.com/in/gleydson07/)
+   <img src="./assets/gmail.svg" alt="gmail" width="40px"> (https://mail.google.com/mail/u/0/?fs=1&to=gassantos.dev@gmail.com&su=Ol%C3%A1!%20fala%20aqui%20qual%20assunto%20legal%20que%20vamos%20tratar.&body=Aqui%20voc%C3%AA%20pode%20descrever%20melhor%20sua%20mensagem,%20pode%20ser%20uma%20pergunta,%20uma%20sugest%C3%A3o,%20um%20convite%20para%20um%20caf%C3%A9%20%F0%9F%98%80&tf=cm)
+   <img src="./assets/whatsapp.svg" alt="whatsapp" width="40px"> 
 </div>
 <div align="center">
    <p>:rocket: Ao passo que aprimoro minhas habilidades e amplio meu conhecimento, percebo que o aprendizado é um processo prazeroso e infinito de constante evolução. </p>
