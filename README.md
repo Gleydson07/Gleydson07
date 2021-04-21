@@ -11,7 +11,7 @@
 </div>
 
 
-#### Tecnologias que mais uso
+#### Tecnologias que mais uso/estudo
 <div align="left">
  <img src="./assets/html-5.svg" width="60px" align="center">
   <img src="./assets/css3.svg" width="60px" align="center">
@@ -28,7 +28,7 @@
 <div align="left">
  <img src="./assets/git.svg" width="60px" align="center">
   <img src="./assets/vscode.svg" width="60px" align="center">
-  <img src="./assets/figma.svg" width="60px" align="center">
+  <img src="./assets/figma.svg" height="50px" align="center">
 </div>
 <!--
 ### Nível de conhecimento :sunglasses:
