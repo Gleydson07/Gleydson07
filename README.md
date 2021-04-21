@@ -10,7 +10,7 @@
 <div align="center">
    <h2>Skills</h2>
    <div>
-      <h3>Tenho experiência</h3>
+      <h4>Tenho experiência</h4>
       <img src="./assets/html-5.svg" alt="html5" width="40px" >
       <img src="./assets/css3.svg" alt="css3" width="40px" >
       <img src="./assets/javascript.svg" alt="javascript" width="40px">
@@ -20,13 +20,13 @@
       <img src="./assets/logo-mysql.svg" alt="mysql" width="40px">
    </div>
    <div>
-      <h3>Estou estudando</h3>                
+      <h4>Estou estudando</h4>                
       <img src="./assets/typescript.svg" alt="typescript" width="40px">
       <img src="./assets/react.svg" alt="react" width="40px">
       <img src="./assets/reactnative.svg" alt="reactnative" width="40px">
    </div>
    <div>
-      <h3>Tenho interesse</h3>
+      <h4>Tenho interesse</h4>
       <img src="./assets/nodejs.svg" alt="NodeJS" width="40px"> &NonBreakingSpace; 
       <img src="./assets/docker.svg" alt="docker" width="40px">
       <img src="./assets/vuejs.svg" alt="vue" width="40px">
@@ -34,7 +34,7 @@
       <img src="./assets/mongodb.svg" alt="mongodb" height="35px"> 
    </div>
    <div>
-      <h3>Ferramentas </h3>
+      <h4>Ferramentas </h4>
       <img src="./assets/git.svg" alt="git" width="40px">
       <img src="./assets/vscode.svg" alt="vscode" width="40px"> &NonBreakingSpace;
       <img src="./assets/figma.svg" alt="figma" height="35px">
