@@ -10,7 +10,7 @@
 <div >
    <h4>Skills</h4>
    <div>
-      <h3>Tenho experiência</h3>
+      <p>Tenho experiência</p>
       <img src="./assets/html-5.svg" alt="html5" width="40px" >
       <img src="./assets/css3.svg" alt="css3" width="40px" >
       <img src="./assets/javascript.svg" alt="javascript" width="40px">
@@ -18,7 +18,7 @@
       <img src="./assets/logo-mysql.svg" alt="mysql" width="40px">
    </div>
    <div>
-      <h3>Estou estudando</h3>                
+      <p>Estou estudando</p>                
       <img src="./assets/typescript.svg" alt="typescript" width="40px">
       <img src="./assets/react.svg" alt="react" width="40px">
       <img src="./assets/reactnative.svg" alt="reactnative" width="40px">
