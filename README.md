@@ -4,9 +4,9 @@
 
 #### Olá, meu nome é Gleydson, sou formado em Sistamas de Informação pelo Centro Universitário Cesmac de Maceió-AL, atualmente estou estudando a trila de ReactJS no bootcamp Ignite da Rocketseat com foco na Stack ReactJS, ReactNative e NodeJS com ênfase no frontend.
 
- <img src="https://github-readme-stats.vercel.app/api?username=Gleydson07&count_private=true&show_icons=true&theme=vue" alt="Gleydson07" width="420" align="center"/>
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gleydson07&layout=vue)](https://github.com/Gleydson07/github-readme-stats)
+#### Estatísticas
+ <img src="https://github-readme-stats.vercel.app/api?username=Gleydson07&count_private=true&show_icons=true" alt="Gleydson07" width="450" align="center"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleydson07&&langs_count=8&layout=compact" alt="Gleydson07" height="180" align="center"/>
 
 ### Nível de conhecimento :sunglasses:
 <img src="https://img.shields.io/static/v1?label=php&message=8.50&color=blue&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?label=java&message=8.50&color=blue&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?label=sql&message=8.50&color=blue&style=for-the-badge"/> 
