@@ -2,7 +2,7 @@
 ## Gleydson Albuquerque
 
 
-#### Olá, meu nome é Gleydson, sou formado em Sistamas de Informação pelo Centro Universitário Cesmac de Maceió-AL, atualmente estou estudando a trila de ReactJS no bootcamp Ignite da Rocketseat com foco na Stack ReactJS, ReactNative e NodeJS com ênfase no frontend.
+#### Olá, meu nome é Gleydson, sou formado em Sistamas de Informação pelo Centro Universitário Cesmac de Maceió-AL, atualmente estou estudando a trilha de ReactJS no bootcamp Ignite da Rocketseat com foco na Stack ReactJS, ReactNative e NodeJS.
 
 #### Estatísticas
 <div align="center">
@@ -11,7 +11,7 @@
 </div>
 
 
-#### Tecnologias em 
+#### Tecnologias em estudo
 <!--
 ### Nível de conhecimento :sunglasses:
 <img src="https://img.shields.io/static/v1?label=php&message=8.50&color=blue&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?label=java&message=8.50&color=blue&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?label=sql&message=8.50&color=blue&style=for-the-badge"/> 
