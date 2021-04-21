@@ -27,11 +27,11 @@
    </div>
    <div>
       <h3>Tenho interesse</h3>
-      <img src="./assets/nodejs.svg" alt="NodeJS" width="40px">
-      <img src="./assets/mongodb.svg" alt="mongodb" height="35px"> &NonBreakingSpace;
+      <img src="./assets/nodejs.svg" alt="NodeJS" width="40px"> &NonBreakingSpace;
       <img src="./assets/docker.svg" alt="docker" width="40px">
       <img src="./assets/vuejs.svg" alt="vue" width="40px">
       <img src="./assets/angularjs.svg" alt="angular" width="40px">
+      <img src="./assets/mongodb.svg" alt="mongodb" height="25px"> 
    </div>
    <div>
       <h3>Ferramentas </h3>
