@@ -35,7 +35,3 @@
     <div align="center">
         <p>:rocket: Ao passo que aprimoro minhas habilidades e amplio meu conhecimento, percebo que o aprendizado é um processo prazeroso e infinito de constante evolução. </p>
     </div>
-
-<blockquot >&nbsp; &nbsp;&nbsp;&nbsp; Ao passo que aprimoro minhas habilidades e amplio meu conhecimento, percebo que o aprendizado é um processo prazeroso e infinito de constante evolução.
-  <cite style='text-align: right;'> :sunglasses: </cite>
-</blockquot>
