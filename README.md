@@ -13,13 +13,13 @@
 
 #### Tecnologias que mais uso
 <div align="center">
- <img src="./assets/html.svg" width="60px" align="center">
-  <img src="./assets/css.svg" width="60px" align="center">
+ <img src="./assets/html-5.svg" width="60px" align="center">
+  <img src="./assets/css3.svg" width="60px" align="center">
   <img src="./assets/javascript.svg" width="60px" align="center">
   <img src="./assets/typescript.svg" width="60px" align="center">
   <img src="./assets/react.svg" width="60px" align="center">
   <img src="./assets/reactnative.svg" width="60px" align="center">
-  <img src="./assets/node.svg" width="60px" align="center">
+  <img src="./assets/nodejs.svg" width="60px" align="center">
 </div>
 <!--
 ### Nível de conhecimento :sunglasses:
