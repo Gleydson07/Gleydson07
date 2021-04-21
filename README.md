@@ -12,9 +12,22 @@
 
 
 #### Tecnologias que mais uso
-<div align="center">
+<div align="left">
  <img src="./assets/html-5.svg" width="60px" align="center">
   <img src="./assets/css3.svg" width="60px" align="center">
+  <img src="./assets/javascript.svg" width="60px" align="center">
+  <img src="./assets/typescript.svg" width="60px" align="center">
+  <img src="./assets/react.svg" width="60px" align="center">
+  <img src="./assets/reactnative.svg" width="60px" align="center">
+  <img src="./assets/nodejs.svg" width="60px" align="center">
+  <img src="./assets/postgreesql.svg" width="60px" align="center">
+  <img src="./assets/logo-mysql.svg" width="60px" align="center">
+</div>
+
+#### Ferramentas de trabalho/estudos
+<div align="left">
+ <img src="./assets/git.svg" width="60px" align="center">
+  <img src="./assets/vscode.svg" width="60px" align="center">
   <img src="./assets/javascript.svg" width="60px" align="center">
   <img src="./assets/typescript.svg" width="60px" align="center">
   <img src="./assets/react.svg" width="60px" align="center">
