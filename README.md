@@ -11,7 +11,7 @@
 </div>
 
 
-#### Tecnologias em estudo
+#### Tecnologias que mais uso
 <!--
 ### Nível de conhecimento :sunglasses:
 <img src="https://img.shields.io/static/v1?label=php&message=8.50&color=blue&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?label=java&message=8.50&color=blue&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?label=sql&message=8.50&color=blue&style=for-the-badge"/> 
