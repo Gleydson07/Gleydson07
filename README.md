@@ -12,8 +12,9 @@
 
 
 #### Tecnologias que mais uso
-<img src="./assets/typescript.svg" width="60px" align="right">
-
+<div align="center">
+ <img src="./assets/typescript.svg" width="60px" align="center">
+</div>
 <!--
 ### Nível de conhecimento :sunglasses:
 <img src="https://img.shields.io/static/v1?label=php&message=8.50&color=blue&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?label=java&message=8.50&color=blue&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?label=sql&message=8.50&color=blue&style=for-the-badge"/> 
