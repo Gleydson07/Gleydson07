@@ -28,11 +28,7 @@
 <div align="left">
  <img src="./assets/git.svg" width="60px" align="center">
   <img src="./assets/vscode.svg" width="60px" align="center">
-  <img src="./assets/javascript.svg" width="60px" align="center">
-  <img src="./assets/typescript.svg" width="60px" align="center">
-  <img src="./assets/react.svg" width="60px" align="center">
-  <img src="./assets/reactnative.svg" width="60px" align="center">
-  <img src="./assets/nodejs.svg" width="60px" align="center">
+  <img src="./assets/figma.svg" width="60px" align="center">
 </div>
 <!--
 ### Nível de conhecimento :sunglasses:
