@@ -29,7 +29,7 @@ e mais eficientes soluções para a sociedade.</p>
  :muscle:  
 
 <blockquot >&nbsp; &nbsp;&nbsp;&nbsp; Ao passo que aprimoro minhas habilidades e amplio meu conhecimento, percebo que o aprendizado é um processo prazeroso e infinito de constante evolução.
-  <cite style='text-align: right;'>Eu mesmo! :sunglasses: </cite>
+  <cite style='text-align: right;'> :sunglasses: </cite>
 </blockquot>
 
 :computer: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
