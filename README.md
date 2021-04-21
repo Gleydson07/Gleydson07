@@ -40,10 +40,10 @@
       <img src="./assets/figma.svg" alt="figma" height="35px">
    </div>
 </div>
-<div>
-   <h3>:mail: Network</h3>
-   <a href="https://www.linkedin.com/in/gleydson07/" target="blank"><img src="./assets/linkedin.svg" title="linkedin" width="40px"/></a>
-   <a href="https://mail.google.com/mail/u/0/?fs=1&to=gassantos.dev@gmail.com&su=Ol%C3%A1!%20fala%20aqui%20qual%20assunto%20legal%20que%20vamos%20tratar.&body=Aqui%20voc%C3%AA%20pode%20descrever%20melhor%20sua%20mensagem,%20pode%20ser%20uma%20pergunta,%20uma%20sugest%C3%A3o,%20um%20convite%20para%20um%20caf%C3%A9%20%F0%9F%98%80&tf=cm" target="blank"><img src="./assets/gmail.svg" title="gmail" width="40px"/></a>
+<div align="center">
+   <h3>:mailbox: Network</h3>
+   <a href="https://www.linkedin.com/in/gleydson07/" target="blank"><img src="./assets/linkedin.svg" title="linkedin" width="40px"/></a>  &NonBreakingSpace;
+   <a href="https://mail.google.com/mail/u/0/?fs=1&to=gassantos.dev@gmail.com&su=Ol%C3%A1!%20fala%20aqui%20qual%20assunto%20legal%20que%20vamos%20tratar.&body=Aqui%20voc%C3%AA%20pode%20descrever%20melhor%20sua%20mensagem,%20pode%20ser%20uma%20pergunta,%20uma%20sugest%C3%A3o,%20um%20convite%20para%20um%20caf%C3%A9%20%F0%9F%98%80&tf=cm" target="blank"><img src="./assets/gmail.svg" title="gmail" width="40px"/></a> &NonBreakingSpace;
    <a href="https://api.whatsapp.com/send?phone=558281114246&text=Olá!! 😀" target="blank"><img src="./assets/whatsapp.svg" title="whatsapp" width="40px"/></a>
 </div>
 <div align="center">
