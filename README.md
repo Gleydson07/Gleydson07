@@ -1,19 +1,17 @@
 
 ## Gleydson Albuquerque
 
+<h4> Olá, meu nome é Gleydson, sou formado em Sistamas de Informação pelo Centro Universitário Cesmac de Maceió-AL, atualmente estou estudando a trilha de ReactJS no bootcamp Ignite da Rocketseat com foco na Stack ReactJS, ReactNative e NodeJS.
 
-#### Olá, meu nome é Gleydson, sou formado em Sistamas de Informação pelo Centro Universitário Cesmac de Maceió-AL, atualmente estou estudando a trilha de ReactJS no bootcamp Ignite da Rocketseat com foco na Stack ReactJS, ReactNative e NodeJS.
-
-#### Estatísticas
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Gleydson07&count_private=true&show_icons=true" alt="Gleydson07" width="450" align="center"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleydson07&&langs_count=8&layout=compact" alt="Gleydson07" height="178" align="center"/>
+ <h4>Estatísticas</h4>
+ <img src="https://github-readme-stats.vercel.app/api?username=Gleydson07&count_private=true&show_icons=true" alt="Gleydson07" width="450" align="left"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleydson07&&langs_count=8&layout=compact" alt="Gleydson07" height="178" align="right"/>
 </div>
 
-
-#### Tecnologias que mais uso/estudo
 <div align="left">
- <img src="./assets/html-5.svg" width="60px" align="center">
+  <h4>Tecnologias que mais uso/estudo</h4>
+  <img src="./assets/html-5.svg" width="60px" align="center">
   <img src="./assets/css3.svg" width="60px" align="center">
   <img src="./assets/javascript.svg" width="60px" align="center">
   <img src="./assets/typescript.svg" width="60px" align="center">
