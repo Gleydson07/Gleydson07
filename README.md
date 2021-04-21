@@ -14,6 +14,8 @@
       <img src="./assets/html-5.svg" alt="html5" width="40px" >
       <img src="./assets/css3.svg" alt="css3" width="40px" >
       <img src="./assets/javascript.svg" alt="javascript" width="40px">
+      <img src="./assets/php.svg" alt="php" width="40px">
+      <img src="./assets/laravel.svg" alt="laravel" width="40px">
       <img src="./assets/postgreesql.svg" alt="postgresql" width="40px">
       <img src="./assets/logo-mysql.svg" alt="mysql" width="40px">
    </div>
@@ -27,6 +29,9 @@
       <h3>Tenho interesse</h3>
       <img src="./assets/nodejs.svg" alt="NodeJS" width="40px">
       <img src="./assets/docker.svg" alt="docker" width="40px">
+      <img src="./assets/vue.svg" alt="vue" width="40px">
+      <img src="./assets/angular.svg" alt="angular" width="40px">
+      <img src="./assets/mongodb.svg" alt="mongodb" width="40px">
    </div>
    <div>
       <h3>Ferramentas </h3>
