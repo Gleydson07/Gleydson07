@@ -1,8 +1,14 @@
 
-<h1 align="center">Gleydson Albuquerque</h1>
+## Gleydson Albuquerque
 
-<p align="justify">&nbsp; &nbsp;&nbsp;&nbsp; Formado em Sistemas de Informações pela Faculdade Centro Universitário Cesmac, tenho como caracterisca a busca constante por aprendizado a fim de entregar melhores 
-e mais eficientes soluções para a sociedade.</p>
+
+##### Olá, meu nome é Gleydson, sou formado em Sistamas de Informação pelo Centro Universitário Cesmac de Maceió-AL, atualmente estou estudando a trila de ReactJS no bootcamp Ignite da Rocketseat com foco na Stack ReactJS, ReactNative e NodeJS com ênfase no frontend.
+
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gleydson07)](https://github.com/Gleydson07/github-readme-stats) </br> 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gleydson07&repo=github-readme-stats)](https://github.com/Gleydson07/github-readme-stats)
 
 ### Nível de conhecimento :sunglasses:
 <img src="https://img.shields.io/static/v1?label=php&message=8.50&color=blue&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?label=java&message=8.50&color=blue&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?label=sql&message=8.50&color=blue&style=for-the-badge"/> 
