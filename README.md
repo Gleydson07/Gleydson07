@@ -1,9 +1,8 @@
-    <h1 align="center"> Olá!!! 😄 </h1>
-    
+### new
+   <h1 align="center"> Olá!!! 😄 </h1>
     <p>Meu nome é Gleydson, sou graduado em Sistamas de Informação pelo Centro Universitário Cesmac de Maceió-AL, atualmente estou 
         estudando a trilha de ReactJS no bootcamp Ignite da Rocketseat com foco na stack ReactJS, React Native e NodeJS.
     </p>
-    
     <div align="center">
         <h4>Dados técnicos</h4>
         <img src="https://github-readme-stats.vercel.app/api?username=Gleydson07&count_private=true&show_icons=true" alt="Gleydson07" width="450" />        
