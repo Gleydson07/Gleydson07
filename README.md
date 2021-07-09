@@ -1,6 +1,5 @@
 <h1 align="center"> Olá!!! 😄 </h1>
-<p>Meu nome é Gleydson, sou graduado em Sistamas de Informação pelo Centro Universitário Cesmac de Maceió-AL, atualmente estou 
-   estudando a trilha de ReactJS no bootcamp Ignite da Rocketseat com foco na stack ReactJS, React Native e NodeJS.
+<p>Meu nome é Gleydson, sou graduado em Sistamas de Informação pelo Centro Universitário Cesmac de Maceió-AL.
 </p>
 <div align="center">
   <h2>Estatísticas</h2>
