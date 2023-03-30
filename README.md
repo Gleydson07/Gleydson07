@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleydson07&&langs_count=8&layout=compact" alt="Gleydson07" height="178" />
 </div>
 <div align="center">
-   <h2>:mailbox: Network</h2>
+   <h2>:mailbox: Network :mailbox:</h2>
    <a href="https://www.linkedin.com/in/gsantosdev/" target="blank"><img src="./assets/linkedin.svg" title="linkedin" width="40px"/></a>  &NonBreakingSpace;
    <a href="https://api.whatsapp.com/send?phone=558281114246&text=Olá!! 😀" target="blank"><img src="./assets/whatsapp.svg" title="whatsapp" width="40px"/></a>
 </div>
