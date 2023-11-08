@@ -1,5 +1,5 @@
 <h1 align="center"> Olá!!! 😄 </h1>
-<p>Meu nome é Gleydson, sou graduado em Sistamas de Informação pelo Centro Universitário Cesmac de Maceió-AL.
+<p>Meu nome é Gleydson, sou pós-graduado em Engenharia de Software na Faculdade Estácio de Sá de Maceió-AL.
 </p>
 <div align="center">
   <h2>Estatísticas</h2>
